@@ -1,0 +1,2 @@
+# tate
+A wordpress theme
