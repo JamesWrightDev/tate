@@ -1,0 +1,36 @@
+
+body{
+	background-color: #f8f8f8;
+}
+.container{
+	background-color: #fff !important;
+}
+
+.article_container{
+	margin-bottom: 2em;
+}
+
+.article__row{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+
+.article_thumbnail{
+	width: 100%;
+}
+.article_headline, .article_date{
+	font-family: Roboto, Arial, sans-serif;	
+}
+
+.article_headline:hover{
+	text-decoration: underline;
+
+}
+
+.article_date{
+	font-weight: 400;
+	color: #808080;
+	margin-top: 25px;
+}
